@@ -25,11 +25,11 @@
 
 <p align=justify>
 
-**Jasnoor Kaur of B.Tech 4th  year(2104128) became IKG-PTU BEST CYCLIST  in PTU Inter-college Cycling Competition at PAU "Velodrome",Ludhiana   on 1st October 2024**  
+**Jasnoor Kaur of B.Tech 4th  year(2104128) and Anu Grewal of B.Tech 4th year(2104471) became IKG-PTU BEST CYCLIST  in PTU Inter-college Cycling Competition at PAU "Velodrome",Ludhiana   on 1st October 2024**  
 <p align=justify>
 
 
-![Jasnoor](Images/Star/1.jpg)  
+![Jasnoor Kaur](Images/Star/Jasnoor.jpg)  ![Anu Grewal](Images/Star/Jasnoor.jpg) 
 
 **IKGPTU Inter-varsity Participation**
 
