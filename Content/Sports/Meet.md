@@ -12,6 +12,6 @@ The Alumnus of 1978 Batch distributed cash award of Rs.2500/- to gold medalist, 
 
 # BEST & 2nd BEST ATHLETE-2024
 
-![1](Images/Student/1.jpeg)
+![1](Images/Student/12.jpeg)
 
 # [Gallery - Athletic Meet 2023: Click here to view](meetGallery.md)
