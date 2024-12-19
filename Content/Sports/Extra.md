@@ -39,14 +39,14 @@
 
 | Sr. No. | Name               | Roll No. | Branch              | Game        | Venue                               | Dates                         | Photograph                                |
 |:--------|:-------------------|:---------|:--------------------|:------------|:------------------------------------|:------------------------------|:------------------------------------------|
-| 1.      | Nikhal Singh       | 2204002  | B.Tech. 3rd yr ME   | Kabaddi     | Lovely Professional University      | 13th to 16th November 2024    | ![Nikhal](Images/Uni/25.jpeg)             |
-| 2.      | Prabhjot Singh     | 2104546  | B.Tech. 4th yr IT   | Basketball  | Kurukshetra University              | 25th to 28th November 2024    | ![Prabhjot](Images/Uni/26.jpeg)           |
-| 3.      | Anmol Singh        | 2104242  | B.Tech. 4th yr EE   | Basketball  | Kurukshetra University              | 25th to 28th November 2024    | ![Anmol](Images/Uni/27.jpeg)              |
-| 4.      | Saumya Dhingra     | 2302667  | B.Tech. 2nd yr CSE  | Basketball  | Kurukshetra University, Kurukshetra | 25th to 28th November 2024    | ![Saumya](Images/Uni/28.jpeg)             |
-| 5.      | Manvir Singh       | 2302396  | B.Tech. 2nd yr CE   | Basketball  | Kurukshetra University, Kurukshetra | 25th to 28th November 2024    | ![Manvir](Images/Uni/29.jpeg)             |
-| 6.      | Davinderpal Singh  | 2316104  | B.Tech. 2nd yr      | Basketball  | Kurukshetra University, Kurukshetra | 25th to 28th November 2024    | ![Davinderpal](Images/Uni/30.jpeg)        |
-| 7.      | Sushant Pal        | 2416087  | B.Tech. 1st yr EE   | Badminton   | Chitkara University, Chandigarh     | 30th Oct to 1st Nov 2024      | ![Sushant](Images/Uni/31.jpeg)            |
-| 8.      | Vansh Singh        | 2203907  | B.Tech. 3rd yr IT   | Badminton   | Chitkara University, Chandigarh     | 30th Oct to 1st Nov 2024      | ![Vansh](Images/Uni/32.jpeg)              |
+| 1.      | Nikhal Singh       | 2204002  | B.Tech. 3rd yr ME   | Kabaddi     | Lovely Professional University      | 13th to 16th November 2024    | ![Nikhal](Images/Uni/25.jpg)             |
+| 2.      | Prabhjot Singh     | 2104546  | B.Tech. 4th yr IT   | Basketball  | Kurukshetra University              | 25th to 28th November 2024    | ![Prabhjot](Images/Uni/26.jpg)           |
+| 3.      | Anmol Singh        | 2104242  | B.Tech. 4th yr EE   | Basketball  | Kurukshetra University              | 25th to 28th November 2024    | ![Anmol](Images/Uni/27.jpg)              |
+| 4.      | Saumya Dhingra     | 2302667  | B.Tech. 2nd yr CSE  | Basketball  | Kurukshetra University, Kurukshetra | 25th to 28th November 2024    | ![Saumya](Images/Uni/28.jpg)             |
+| 5.      | Manvir Singh       | 2302396  | B.Tech. 2nd yr CE   | Basketball  | Kurukshetra University, Kurukshetra | 25th to 28th November 2024    | ![Manvir](Images/Uni/29.jpg)             |
+| 6.      | Davinderpal Singh  | 2316104  | B.Tech. 2nd yr      | Basketball  | Kurukshetra University, Kurukshetra | 25th to 28th November 2024    | ![Davinderpal](Images/Uni/30.jpg)        |
+| 7.      | Sushant Pal        | 2416087  | B.Tech. 1st yr EE   | Badminton   | Chitkara University, Chandigarh     | 30th Oct to 1st Nov 2024      | ![Sushant](Images/Uni/31.jpg)            |
+| 8.      | Vansh Singh        | 2203907  | B.Tech. 3rd yr IT   | Badminton   | Chitkara University, Chandigarh     | 30th Oct to 1st Nov 2024      | ![Vansh](Images/Uni/32.jpg)              |
 
 
 ***IKGPTU CYCLING COMPETITION***
